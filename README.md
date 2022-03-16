@@ -24,6 +24,7 @@ Desktop view;
 ![image text](./screenshots/Screenshot%202022-03-16%20at%2014-44-22%20Frontend%20Mentor%20QR%20code%20component.png)
 
 Mobile view;
+
  ![image text](./screenshots/Screenshot%202022-03-16%20at%2014-54-13%20Frontend%20Mentor%20QR%20code%20component.png)
 
 ### Links
